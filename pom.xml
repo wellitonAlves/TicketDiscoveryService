@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ticket.app.discovery</groupId>
-	<artifactId>TicketDiscoverySerivice</artifactId>
+	<artifactId>TicketDiscoveryService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TicketDiscoverySerivice</name>
+	<name>TicketDiscoveryService</name>
 	<description>Ticket App Discovery Service</description>
 
 	<properties>
